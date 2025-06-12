@@ -1,5 +1,5 @@
 streamlit
-tensorflow
-Pillow
+tensorflow==2.15.0
 numpy
+pillow
 pandas
